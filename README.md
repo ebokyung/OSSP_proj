@@ -1,2 +1,2 @@
 # OSSP_proj
-local
+local edit
